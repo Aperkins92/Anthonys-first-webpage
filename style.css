@@ -71,13 +71,3 @@ button {
   border: none;
   cursor: pointer;
 }
-
-/* DARK MODE */
-.dark-mode {
-  background: #111;
-  color: white;
-}
-
-.dark-mode section {
-  background: #222;
-}
