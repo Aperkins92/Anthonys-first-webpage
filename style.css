@@ -2,6 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   background: #f4f4f4;
+  color: #002244;
 }
 
 header {
@@ -36,6 +37,10 @@ section {
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 8px;
+}
+
+.highlight-title {
+  color: #004d00; /* Accessible contrast */
 }
 
 /* PROJECT CARDS */
